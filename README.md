@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Matlyce, Epitech Student (Promo. 2022)
 - 👀 I’m interested in development (any language)
-- 💞️ Web : https://matlyce.fr/ (basic website, i'm not a be web developer..)
 - 📫 Contact me at : matlyce@gmail.com or Matlyce#2336 on Discord.

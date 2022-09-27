@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Matlyce, Epitech Student (Promo. 2027)
-- 👀 I am a French developer in some langages (Python, C, Javascript and more..)
+- 👀 I am a French developer in some langages.
 - 📫 Contact me at : matlyce@gmail.com or Matlyce#2336 on Discord.

@@ -15,3 +15,10 @@
 
 [![Linux](https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=linux&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/windows-02A5FF?style=for-the-badge&logo=windows&logoColor=white)]()
+
+---------------------------------------------------------------------------------------------------------------------
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matlyce&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matlyce&theme=discord_old_blurple)
+
+---------------------------------------------------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 ## 🚀 About me
 - 👋 Hi, I’m @Matlyce, Epitech Student (Promo. 2027)
 - 👀 I am a French developer in some langages.
-- 📫 Contact me at : matlyce@gmail.com or Matlyce#2336 on Discord.
+- 📫 Contact me at : mathis.emaille@gmail.com
 
 ## 🛠 Skills
 [![C](https://img.shields.io/badge/C-136CD2?style=for-the-badge&logo=c&logoColor=white)]()

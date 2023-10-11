@@ -16,6 +16,11 @@
 [![Linux](https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=linux&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/windows-02A5FF?style=for-the-badge&logo=windows&logoColor=white)]()
 
+## 🌐 Social
+<p>
+ <a href="https://github.com/matlyce" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mathis-emaille" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matlyce&theme=discord_old_blurple)

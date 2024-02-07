@@ -24,6 +24,6 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matlyce&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matlyce&theme=discord_old_blurple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matlyce)](https://github.com/Matlyce)
 
 ---------------------------------------------------------------------------------------------------------------------
